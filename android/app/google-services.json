@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "991277269617",
+    "firebase_url": "https://medsense-aa643.firebaseio.com",
+    "project_id": "medsense-aa643",
+    "storage_bucket": "medsense-aa643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991277269617:android:90dc54bc2702597e4991d0",
+        "android_client_info": {
+          "package_name": "com.medsense.health.app.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991277269617-c3mo1mo8ubo3k8ke21hv5dq0ovi0m568.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8r5hpwVic0TOQmprma0yz8p9BA-1vFu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991277269617-c3mo1mo8ubo3k8ke21hv5dq0ovi0m568.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991277269617-50hoje3gbmr91a7ev2i2ecjrpakbd3jn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.medsense.health.app.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991277269617:android:159b2d50e4e436a64991d0",
+        "android_client_info": {
+          "package_name": "com.medsense.health.app.mobile.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991277269617-c3mo1mo8ubo3k8ke21hv5dq0ovi0m568.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8r5hpwVic0TOQmprma0yz8p9BA-1vFu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991277269617-c3mo1mo8ubo3k8ke21hv5dq0ovi0m568.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991277269617-50hoje3gbmr91a7ev2i2ecjrpakbd3jn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.medsense.health.app.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991277269617:android:d820a1ec5b8527e04991d0",
+        "android_client_info": {
+          "package_name": "com.toothcase.health.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991277269617-c3mo1mo8ubo3k8ke21hv5dq0ovi0m568.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8r5hpwVic0TOQmprma0yz8p9BA-1vFu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991277269617-c3mo1mo8ubo3k8ke21hv5dq0ovi0m568.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991277269617-50hoje3gbmr91a7ev2i2ecjrpakbd3jn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.medsense.health.app.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

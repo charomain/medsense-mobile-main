@@ -1,0 +1,25 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "moduleResolution": "Bundler",
+    "baseUrl": ".",
+    "paths": {
+      // Components is a directory with sub directories
+      "@app/components/*": ["src/shared/components/*"],
+      "@app/shared/*": ["src/shared/*"],
+      "@app/appearance/*": ["src/appearance/*"],
+      "@app/services/*": ["src/services/*"],
+      "@app/stores/*": ["src/stores/*"],
+      "@app/types/*": ["src/types/*"],
+      "@app/models/*": ["./src/models/*"],
+      "@app/contexts/*": ["./src/contexts/*"],
+      "@toothcase/shared/*": ["toothcase/shared/*"]
+    },
+    "types": ["jest"]
+  },
+  "include": ["src", "App.tsx", "index.ts", "index.tsx", "**/*.ts", "**/*.tsx"]
+  "exclude": ["**/node_modules", "**/Pods"]
+}
